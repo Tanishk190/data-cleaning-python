@@ -49,5 +49,5 @@ Cleaned output:
 
 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/clean-my-csv.git
+git clone https://github.com/Tanishk190/data-cleaning-python
 cd clean-my-csv
